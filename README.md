@@ -19,7 +19,7 @@ To install, please clone this repository to your computer using the following st
 
 ## Usage
 
-To view this site, either visit the link <https://jacobmca.github.io/01-HTML-Git-CSS-Challenge/> or open the 01-HTML-Git-CSS-Challenge/index.html file on any major browser from your computer.
+To view this site, either visit the link <https://jacobmca.github.io/Portfolio-Project/> or open the Portfolio-Project/index.html file on any major browser from your computer.
 
 ## Screenshot
 
